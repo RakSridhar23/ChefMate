@@ -94,4 +94,4 @@ User Story: As a user, I would like to know what recipes I can cook given a list
 
 ## Clickable Prototype
 
-[Prototype Link](https://www.figma.com/proto/68Q7D8vzZThLNUzdStNRMc/Project-1?type=design&node-id=107-722&t=incbCBFc07E675B9-1&scaling=scale-down&page-id=0%3A1&mode=design)
+[Prototype Link](https://www.figma.com/proto/1s6sXwBMxjkw2RZdZgmTYY/Project-1-(Copy)?type=design&node-id=53-1260&t=IbIvQEk7TrNgfw0a-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1&mode=design)
