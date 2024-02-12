@@ -5,7 +5,7 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 Denzel Prudent, [Github](https://github.com/denprud)
 Rakshit Sridhar, [Github](https://github.com/RakSridhar23)
-
+Nathan Daniel, [Github](https://github.com/WayyGood)
 ## Stakeholders
 Interviewee - Christopher Chen(NYU Student):
 
