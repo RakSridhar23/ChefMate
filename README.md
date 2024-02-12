@@ -93,6 +93,10 @@ User Story: As a user, I would like to know what recipes I can cook given a list
 
 ![Logging In / Signing Up](/images/uml2.jpg)
 
+User Story: As a user, I want to add recipes to a 'Saved Recipe' tab, so I can access it quickly in the future.
+
+![Bookmarking](/images/uml3.png)
+
 ## Clickable Prototype
 
 [Prototype Link](https://www.figma.com/proto/1s6sXwBMxjkw2RZdZgmTYY/Project-1-(Copy)?type=design&node-id=53-1260&t=IbIvQEk7TrNgfw0a-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1&mode=design)
