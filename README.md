@@ -3,41 +3,95 @@
 A little exercise to get started with the specification phase of the software development lifecycle. See the [instructions](instructions.md) for more detail.
 
 ## Team members
-
 Denzel Prudent, [Github](https://github.com/denprud)
+Rakshit Sridhar, [Github](https://github.com/RakSridhar23)
 
 ## Stakeholders
+Interviewee - Christopher Chen(NYU Student):
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+    Goals:
 
-Interviewee - Christopher Chen:
+    -Estimate the amount of time needed to cook a meal.
 
--Wanted to know the amount of time left to cook food based during the process of cooking
--The amount of time it takes it usually cooks a meal somewhat prevents him from cooking. 
- He usually makes simple meals such as  fried rice using a Wok
+    -Wants to able to make meals using a specific amount of cooking ware.
+    
+    Frustrations:
 
-Interviewee - Nina Ho:
+    -Usual recipes require more time than he's willing to spend cooking.
 
--Usually cooks simple meals, and usually meals that requires only one pan or pot to cooks with, such as ramen, or fired rice using a wok.
- 
-Interviewee - Raven:
--The amount of money and time it usually takes to usually takes to get ingredients for cooking a desired mean usually prevents her from getting ingredients
+Interviewee - Nina Ho(NYU Student):
 
-Interviewee: Jackson Ngo:
--Has an issue cleaning dishes after cooking with them, would prefer meals that requires a minimal amount of dishes to use.
+    Goals:
+
+    -Wants to cook meals specifically using no more than one cooking container, like a Wok.
+
+    -Wants to be able to share recipes with other students.
+
+    -Wants to easily save recipes that she uses often.
+    
+Interviewee - Raven(NYU Student):
+
+    Frustrations:
+
+    -Dissuaded from buying groceries required for appealing recipies due the money and/or time it takes to make them.
+
+    -Usually dissuaded from the large amount of items necessary to make a meal.
+
+
+Interviewee: Jackson Ngo(NYU Student):
+
+    Frustrations:
+
+    -Dissuaded from cooking recipes that requires a large amount of dishware, which requires alot of time and labor spent cleaning after cooking.
  
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+Our mobile app is crafted for students with a focus on customized recipe suggestions based on their available ingredients and utensils using simple and quick-to-make recipes with short-form video tutorials and step-by-step instructions to elevate the experience.
+
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+As a user, I want to sign up or log in, so that I can start learning recipes.
+
+
+As a user, I would like to know what recipes I can cook given a list of ingredients I have in my house, so that I don't have to shop for ingredients.
+
+
+As a user, I would like to filter the amount of cooking ware that I use, so that I can easily find dishes that I can cook with available cooking ware.
+
+
+As a user, I want to add recipes to a 'Saved Recipe' tab, so I can access it quickly in the future.
+
+
+As a user, I want to know how much time a recipe takes to make so that I can decide if I want to spend the time to make it.
+
+
+As a user, I want to know how much money is required for ingredients in a recipe, so that I can decide if I want to spend the money to make it.
+
+
+As a user, I would like to watch short-term video content for learning recipes, so that I can understand recipes without spending too much time learning them.
+
+
+As a user, I would like to look at the history of recipes I cooked, so that I can retrieve a recipe that I cooked in the past.
+
+
+As a user, I would like to share the recipes that I find, so that I can help my friends find recipes to make.
+
+
+As a user, I would like to filter the recipes by rating, so that I can quickly decide if a recipe is worth making.
+
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+User Story: As a user, I want to sign up or log in, so that I can start learning recipes.
+
+![Viewing Suggested Recipes](/images/uml1.jpg)
+
+User Story: As a user, I would like to know what recipes I can cook given a list of ingredients I have in my house, so that I don't have to shop for ingredients.
+
+
+![Logging In / Signing Up](/images/uml2.jpg)
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+[Prototype Link](https://www.figma.com/proto/68Q7D8vzZThLNUzdStNRMc/Project-1?type=design&node-id=107-722&t=incbCBFc07E675B9-1&scaling=scale-down&page-id=0%3A1&mode=design)
